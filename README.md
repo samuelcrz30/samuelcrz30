@@ -7,18 +7,7 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
 |-----------------|-----------------------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=samuelcrz30&show_icons=true&hide=['issues']" /> | <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" height="40"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
 
-
-
 ---
-
-
-## Conocimientos principales
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 
 ## Actualmente aprendiendo
 <p align="center">
