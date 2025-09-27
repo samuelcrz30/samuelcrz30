@@ -3,7 +3,7 @@
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, impulsado por mi pasión por la informática y las ganas de aprender.  
 Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y mejorar un poco cada día.
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=samuelcrz30&show_icons=true&hide=[%22issues%22])
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=samuelcrz30&show_icons=true&hide=[%22issues%22]) ### Conocimientos principales: <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
 
 ---
 
