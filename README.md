@@ -5,7 +5,7 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
 
 | Estadísticas | Conocimientos principales |
 |-----------------|-----------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=samuelcrz30&show_icons=true&hide=['issues']" /> | <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" height="60"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=samuelcrz30&show_icons=true&hide=['issues']" /> | <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="50"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="50"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" height="50"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
 
 ---
 
