@@ -10,8 +10,8 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
 ---
 
 ## Actualmente aprendiendo
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b251b546-06cc-44e6-8909-ab4c69fa0c87" />
+
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 
 ## Herramientas
