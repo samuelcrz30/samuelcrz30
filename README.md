@@ -10,7 +10,7 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
 ---
 
 ## Actualmente aprendiendo
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b251b546-06cc-44e6-8909-ab4c69fa0c87" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/34e36b3d-694b-4936-9128-8ea320ac1c21" />
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b251b546-06cc-44e6-8909-ab4c69fa0c87" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/34e36b3d-694b-4936-9128-8ea320ac1c21" />
 
 ## Herramientas
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
