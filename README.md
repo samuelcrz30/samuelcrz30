@@ -1,10 +1,10 @@
 # 👋 Hey, soy Samuel
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**, impulsado por mi pasión por la informática y las ganas de aprender.  
-Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y mejorar un poco cada día.  
-**Objetivo:** seguir creciendo y crear cosas que realmente aporten valor.
+Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y mejorar un poco cada día.
 
 ---
+
 
 ## Conocimientos principales
 <p align="center">
@@ -14,7 +14,9 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+
 ---
+
 
 ## Actualmente aprendiendo
 <p align="center">
@@ -23,7 +25,9 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </p>
 
+
 ---
+
 
 ## Herramientas
 <p align="center">
@@ -33,7 +37,9 @@ Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y m
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+
 ---
+
 
 ## Conecta conmigo
 <p align="center">
