@@ -1,7 +1,6 @@
 # 👋 Bienvenido a mi perfil de GitHub!
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, impulsado por mi pasión por la informática y las ganas de aprender.  
-Me encanta descubrir nuevas tecnologías, experimentar con proyectos propios y mejorar un poco cada día.
 
 | Estadísticas | Conocimientos principales |
 |-----------------|-----------------------------|
