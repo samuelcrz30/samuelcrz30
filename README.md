@@ -2,15 +2,12 @@
 
 Welcome to my GitHub profile. Here you can see the languages, frameworks, and tools I work with.
 
----
-
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=FFE873) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E) 
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php&logoColor=777BB4) 
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue)
 
----
 
 ## Frontend / Markup & Styling
 **Markup:**  
@@ -21,19 +18,17 @@ Welcome to my GitHub profile. Here you can see the languages, frameworks, and to
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js&logoColor=4FC08D)
 
----
 
 ## Backend / Frameworks
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django&logoColor=092E20)
 
----
 
 ## Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=316192) 
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite&logoColor=003B57) 
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-333?style=flat&logo=pgadmin&logoColor=E24329)
 
----
+---  
 
 ## Tools & Other
 ![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat&logo=wordpress&logoColor=21759B) 
