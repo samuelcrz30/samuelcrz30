@@ -39,5 +39,4 @@ Welcome to my GitHub profile. Here you can see the languages, frameworks, and to
 ![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078D6) 
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624) 
 ![Terminal](https://img.shields.io/badge/-Terminal-333?style=flat&logo=gnu-bash&logoColor=white) 
-![Make](https://img.shields.io/badge/-Make-333?style=flat&logo=make&logoColor=white) 
-![n8n](https://img.shields.io/badge/-n8n-333?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-333?style=flat&logo=make&logoColor=white)   
