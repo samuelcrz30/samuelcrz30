@@ -5,9 +5,7 @@ Welcome to my GitHub profile. Here you can see the languages, frameworks, and to
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=FFE873) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E) 
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php&logoColor=777BB4) 
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)   
 
 
 ## Frontend / Markup & Styling
