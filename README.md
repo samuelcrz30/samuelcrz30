@@ -1,40 +1,46 @@
-![Animation](https://camo.githubusercontent.com/6e4c684864b325cf18ffacf2d04489df3b09eee59613d76e8f0dd8909896c503/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d6772616469656e7426726576657273616c3d74727565)
-# Hi, I'm Samuel👋
+<div align="center">
 
-Welcome to my GitHub profile. Here you can see the languages, frameworks, and tools I work with.
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Samuel%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-## Programming Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=FFE873) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)   
+<!-- Typing SVG -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-## Frontend / Markup & Styling
-**Markup:**  
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=E34F26) 
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6)  
+</div>  
 
-**Frameworks / Libraries:**  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js&logoColor=4FC08D)
+### Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Backend / Frameworks
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django&logoColor=092E20)
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-## Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=316192) 
-![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite&logoColor=003B57) 
-![pgAdmin](https://img.shields.io/badge/-pgAdmin-333?style=flat&logo=pgadmin&logoColor=E24329)
+### Backend
 
----  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Tools & Other
-![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat&logo=wordpress&logoColor=21759B) 
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=F05032) 
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=FFFFFF) 
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
-![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows&logoColor=0078D6) 
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FCC624) 
-![Terminal](https://img.shields.io/badge/-Terminal-333?style=flat&logo=gnu-bash&logoColor=white) 
-![Make](https://img.shields.io/badge/-Make-333?style=flat&logo=make&logoColor=white)   
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+
+### Other Tools
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
