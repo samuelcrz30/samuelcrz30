@@ -45,7 +45,7 @@
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
