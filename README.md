@@ -19,9 +19,7 @@ Desarrollo frontend & backend
 
 **Backend:** Django  
 
-**Dev Tools:** Git, GitHub, VS Code, Terminal, Linux, Windows
-
-**Otros:** WordPress, Make
+**Dev Tools:** Git, GitHub, VS Code, Terminal, Linux, Windows  
 
 ## Conecta conmigo
 
