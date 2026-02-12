@@ -17,9 +17,7 @@ Desarrollo frontend & backend
 
 **Frontend:** HTML5, CSS3, Bootstrap, Vue.js
 
-**Backend:** Django
-
-**Bases de datos:** PostgreSQL, SQLite
+**Backend:** Django  
 
 **Dev Tools:** Git, GitHub, VS Code, Terminal, Linux, Windows
 
