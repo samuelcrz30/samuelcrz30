@@ -15,9 +15,9 @@ Desarrollo frontend & backend
 
 **Lenguajes:** Python, JavaScript
 
-**Frontend:** HTML5, CSS3, Bootstrap, Vue.js
+**Frontend:** HTML5, CSS3, Vue.js  
 
-**Backend:** Django  
+**Backend:** Django, n8n    
 
 **Dev Tools:** Git, GitHub, VS Code, Terminal, Linux, Windows  
 
