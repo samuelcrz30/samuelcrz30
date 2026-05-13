@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Samuel%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width="1983" height="793" alt="samuelbanner" src="https://github.com/user-attachments/assets/dc7d4919-80a0-4b5e-98c1-9f59a9ef6c46" />
 
 </div>
 
