@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-Desarrollo frontend & backend
-
-</div>
-
 ## Tecnologías y herramientas
 
 **Lenguajes:** Python, JavaScript
