@@ -2,17 +2,7 @@
 
 <img width="1983" height="793" alt="samuelbanner" src="https://github.com/user-attachments/assets/dc7d4919-80a0-4b5e-98c1-9f59a9ef6c46" />
 
-</div>
-
-## Tecnologías y herramientas
-
-**Lenguajes:** Python, JavaScript
-
-**Frontend:** HTML5, CSS3, Vue.js  
-
-**Backend:** Django, n8n    
-
-**Dev Tools:** Git, GitHub, VS Code, Terminal, Linux, Windows  
+</div>  
 
 ## Conecta conmigo
 
